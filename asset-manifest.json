@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lbna-tree-fest-application-2024/static/css/main.ee6d5964.css",
+    "main.js": "/lbna-tree-fest-application-2024/static/js/main.e843fb39.js",
+    "static/media/TreeFestLogo.png": "/lbna-tree-fest-application-2024/static/media/TreeFestLogo.960b34e01e9325e4eeb4.png",
+    "index.html": "/lbna-tree-fest-application-2024/index.html",
+    "main.ee6d5964.css.map": "/lbna-tree-fest-application-2024/static/css/main.ee6d5964.css.map",
+    "main.e843fb39.js.map": "/lbna-tree-fest-application-2024/static/js/main.e843fb39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee6d5964.css",
+    "static/js/main.e843fb39.js"
+  ]
+}
